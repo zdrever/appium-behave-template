@@ -1,0 +1,12 @@
+{
+  "deviceCapabilities": {
+    "platformName": "Android",
+    "platformVersion": "10",
+    "deviceName": "appium_test_pixel",
+    "appPackage": "com.example.hello",
+    "appActivity": "com.example.hello.MainActivity",
+    "newCommandTimeout": "240"
+  },
+  "appiumServer": "http://127.0.0.1:4723/wd/hub",
+  "driverTimeout": "10"
+}
